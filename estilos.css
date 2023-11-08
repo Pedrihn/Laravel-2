@@ -1,0 +1,30 @@
+*{
+    display: block;
+}
+body{
+    background-color:#E0E2DB;
+   
+}
+h3{
+    color:#7F7B82;
+    border-bottom:2px solid;
+}
+
+button{
+    
+    margin: 1rem;
+    padding: 1rem;
+    color:#009FB7;
+    background:#444554;
+}
+button>a{
+    color: white;
+    text-decoration:none;
+}
+button:hover{
+    background-color: #555357;
+    
+}
+a:hover{
+   color: #1B998B; 
+}
